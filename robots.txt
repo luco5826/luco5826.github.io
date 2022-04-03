@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luco5826.github.io/sitemap.xml
