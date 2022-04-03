@@ -1,0 +1,23 @@
+languageCode = "en-au"
+languageName = "English (Australia)"
+displayName = ":flag-au:"
+isoCode = "en-AU"
+weight = 1
+rtl = false
+
+title = "Personal website"
+#logo = "img/logo.jpg"
+description = "Personal website"
+copyright = "&copy; 2022 Luca Errani"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Luca Errani"
+  image = "img/author.jpg"
+  headline = "Computer Engineering Master's Degree Student"
+  bio = "☁️ There is no cloud, it's just someone else's computer ☁️"
+  links = [
+    { github = "https://github.com/luco5826"},
+    { linkedin = "https://www.linkedin.com/in/luca-errani-7a978a174/" }
+  ]
